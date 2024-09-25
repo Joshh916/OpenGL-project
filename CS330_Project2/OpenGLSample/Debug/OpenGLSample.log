@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Module_2.3.vcxproj, Module_3_Milestone.vcxproj, Module_3.3.vcxproj, Module_4_Assignment.vcxproj, Module_4_Milestone.vcxproj, Module_6_Milestone.vcxproj, OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\shader_m.h(44,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(596,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(629,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(630,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(637,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(638,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(645,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(646,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(653,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(654,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(662,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(663,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1332,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1333,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1337,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1338,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1340,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1341,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1410,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1411,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1412,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1414,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1415,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\OpenGLSample\Source.cpp(1429,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\Josh\Dev\cpp\Module6_Milestone\CS330_Project2\Debug\CS330_Project2.exe

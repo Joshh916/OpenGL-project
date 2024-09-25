@@ -1,0 +1,5 @@
+# CS330
+
+How do I approach designing software?
+
+I apprach designing software from an iterative perspective. When designing software I will create a rough draft on paper or using mock up software and add details to the user interface. I like to start with a basic concept, get that working, then build on the working concept adding more detail and functionality. Wotking on this project has helped me to build more user interface and design skills as well as given my experience with OpenGL and 3D modeling. Throughout the milestones I have developed m ability to take existing code and classes, break down their functionality, and edit them to make them work for me. I am starting a career in software engineering and the SNHU computer science program is helping me to learn a solid base for software development which can use to further my career. I do not intend to pursue a career or educational pathways in computational graphics, but having the knowledge necessary to work within this realm will help me to work with others within that field and be able to collaborate together.
